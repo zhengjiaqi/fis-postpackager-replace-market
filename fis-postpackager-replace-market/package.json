@@ -1,0 +1,50 @@
+{
+  "name": "fis-postpackager-replace-market",
+  "version": "0.1.0",
+  "description": "replace market variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "replace"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhengjiaqi/fis-postpackager-replace-market.git"
+  },
+  "author": {
+    "name": "971682460@qq.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/zhengjiaqi/fis-postpackager-replace-market"
+  }
+//  "homepage": "https://github.com/babyzone2004/fis-postpackager-htmlmin",
+//  "_id": "fis-postpackager-htmlmin@0.1.5",
+//  "dist": {
+//    "shasum": "c5e77a196c14e7234603f368fef322e7d406719e",
+//    "tarball": "https://registry.npmjs.org/fis-postpackager-htmlmin/-/fis-postpackager-htmlmin-0.1.5.tgz"
+//  },
+//  "_from": "fis-postpackager-htmlmin@latest",
+//  "_npmVersion": "1.4.3",
+//  "_npmUser": {
+//    "name": "babyzone2004",
+//    "email": "babyzone2004@qq.com"
+//  },
+//  "maintainers": [
+//    {
+//      "name": "babyzone2004",
+//      "email": "babyzone2004@qq.com"
+//    }
+//  ],
+//  "directories": {},
+//  "_shasum": "c5e77a196c14e7234603f368fef322e7d406719e",
+//  "_resolved": "https://registry.npmjs.org/fis-postpackager-htmlmin/-/fis-postpackager-htmlmin-0.1.5.tgz",
+//  "readme": "ERROR: No README data found!"
+}
