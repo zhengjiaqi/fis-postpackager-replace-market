@@ -4,8 +4,8 @@ module.exports = function(ret, conf, settings, opt) {
       var content = file.getContent();
       var replaceBeforeJS =
         'if(navigator.userAgent.toLowerCase().indexOf("mi")===-1){'+
-        '  window.market = {}; '+
-        '  window.market.registerAppStatus = window.market.checkApis = window.market.checkAppsOnMobile = function() {};'+
+        '  window.market = window.marketAd = {}; '+
+        '  market.registerViewStatus = marketAd.trackAdAction = window.market.registerAppStatus = window.market.checkApis = window.market.checkAppsOnMobile = function() {};'+
         '  window.market.getDeviceInfo = function(){return "{}"}'+
         '}'
         ;
