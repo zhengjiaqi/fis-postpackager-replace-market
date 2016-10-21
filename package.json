@@ -1,6 +1,6 @@
 {
   "name": "fis-postpackager-replace-market",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "replace market variable",
   "main": "index.js",
   "scripts": {

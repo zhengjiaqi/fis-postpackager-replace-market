@@ -13,6 +13,7 @@ module.exports = function(ret, conf, settings, opt) {
         '  window.market = window.marketAd = {}; '+
         '  market.registerViewStatus = marketAd.trackAdAction = window.market.registerAppStatus = window.market.checkApis = window.market.checkAppsOnMobile = function() {};'+
         '  window.market.getDeviceInfo = function(){return "{}"}'+
+        '  window.market.recordCountEvent = function(){return "{}"}'+
         '}'
         ;
       var replaceAfterJS =
